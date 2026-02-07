@@ -1,4 +1,13 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Imran Alam  
+**A passionate Full Stack AI Engineer**  
+
+🚀 I build intelligent and scalable applications  
+🤖 Working across AI, backend, and frontend  
+⚡ Turning ideas into production-ready systems  
+
+📩 **Email Me 👉 ✉️ yashg5304@gmail.com**  
+For Collaboration, Projects, or Anything Else 😊😊
+
 🌱 **Currently learning** modern web technologies including **React, JavaScript, and Backend Development**, with a strong focus on fundamentals
 
 🛠️ **Enjoy building real-world projects** that translate theory into practical experience and improve problem-solving skills
