@@ -1,3 +1,5 @@
+# 💫 Hi 👋, I'm Yash Gupta
+
 **A passionate Full Stack AI Engineer**
 
 🚀 I build intelligent and scalable applications  
@@ -7,13 +9,14 @@
 📩 **Email Me 👉 ✉️ yashg5304@gmail.com**  
 For Collaboration, Projects, or Anything Else 😊😊  
 
-🌱 Currently learning modern web technologies including **React, JavaScript, and Backend Development**, with a strong focus on core fundamentals  
+🌱 **Currently learning:** Modern web technologies including **React, JavaScript, and Backend Development**, with a strong focus on core fundamentals  
 
-🛠️ I enjoy building **real-world projects** that transform theory into practical experience and sharpen problem-solving skills  
+🛠️ **I enjoy:** Building **real-world projects** that transform theory into practical experience and sharpen problem-solving skills  
 
-📚 Actively practicing **DSA and LeetCode** alongside development to strengthen logic, efficiency, and coding confidence  
+📚 **Currently practicing:** **DSA and LeetCode** alongside development to strengthen logic, efficiency, and coding confidence  
 
-🤝 Open to **collaboration, knowledge sharing**, and learning from fellow developers and the open-source community
+🤝 **Open to:** Collaboration, knowledge sharing, and learning from fellow developers and the open-source community
+
 
 
 ## 🌐 Socials:
