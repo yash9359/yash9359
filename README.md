@@ -1,20 +1,20 @@
-# 💫 Hi 👋, I'm Imran Alam  
-**A passionate Full Stack AI Engineer**  
+**A passionate Full Stack AI Engineer**
 
 🚀 I build intelligent and scalable applications  
 🤖 Working across AI, backend, and frontend  
 ⚡ Turning ideas into production-ready systems  
 
 📩 **Email Me 👉 ✉️ yashg5304@gmail.com**  
-For Collaboration, Projects, or Anything Else 😊😊
+For Collaboration, Projects, or Anything Else 😊😊  
 
-🌱 **Currently learning** modern web technologies including **React, JavaScript, and Backend Development**, with a strong focus on fundamentals
+🌱 Currently learning modern web technologies including **React, JavaScript, and Backend Development**, with a strong focus on core fundamentals  
 
-🛠️ **Enjoy building real-world projects** that translate theory into practical experience and improve problem-solving skills
+🛠️ I enjoy building **real-world projects** that transform theory into practical experience and sharpen problem-solving skills  
 
-📚 **Actively practicing DSA and LeetCode**, alongside development, to strengthen logic, efficiency, and coding confidence
+📚 Actively practicing **DSA and LeetCode** alongside development to strengthen logic, efficiency, and coding confidence  
 
-🤝 **Open to collaboration**, knowledge sharing, and learning from fellow developers and the open-source community
+🤝 Open to **collaboration, knowledge sharing**, and learning from fellow developers and the open-source community
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta-a4026534b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashg5304@gmail.com) 
