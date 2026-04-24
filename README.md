@@ -18,11 +18,68 @@
 ## 🚀 About Me
 
 - 🤖 I build across **AI, backend, and frontend** — turning ideas into production-ready systems
+- 🎓 Computer Science Engineering student at **NIET**
 - 🌱 Currently learning **React, JavaScript & Backend Development** with focus on strong fundamentals
 - 📚 Practicing **DSA & LeetCode** to sharpen logic, efficiency, and problem-solving
 - 🛠️ I enjoy building **real-world projects** that bridge theory and practical experience
 - 🤝 Open to **collaboration, knowledge sharing**, and contributing to the open-source community
 - 📩 Reach me at **yashg5304@gmail.com**
+
+---
+
+## 🛠️ Featured Projects
+
+### 🌟 SeeMedia — Full-Stack Social Media Platform
+> My biggest project — a complete Instagram-like social media app built from scratch
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-see--media.vercel.app-blue?style=flat-square&logo=vercel)](https://see-media.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-SeeMedia-181717?style=flat-square&logo=github)](https://github.com/yash9359/SeeMedia)
+
+**Features:** Posts · Reels · Stories · Real-time Chat · Follow System · Notifications · Cloudinary Media Uploads
+
+**Tech:** React 19 · Redux Toolkit · Tailwind CSS · Node.js · Express · MongoDB · Socket.IO · JWT · Cloudinary
+
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/yash9359/Blogify">Blogify</a></h3>
+      <p>Production-ready blogging platform with user auth, post creation, comment system, and Cloudinary image uploads. Clean MVC architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/EJS-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/yash9359/Spotify-Clone">Spotify Clone</a></h3>
+      <p>Frontend clone of Spotify with music player UI, playlist layout, and fully responsive design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ <a href="https://github.com/yash9359/weather-checker">Weather Checker</a></h3>
+      <p>Real-time weather app fetching live data via weather API with a clean, minimal UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/yash9359/leetcode-stats-tracker">LeetCode Stats Tracker</a></h3>
+      <p>Tracks and displays LeetCode problem-solving progress with visual stats and indicators.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,6 +95,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
 ### Backend
@@ -57,7 +115,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
@@ -86,16 +144,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash9359&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9359&theme=tokyo-night" alt="Top Contributed Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9359&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
