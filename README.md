@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yash9359&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yash9359&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -86,15 +86,16 @@
 
 ---
 
-## 🏆 Top Contributed Repos
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yash9359&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yash9359&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yash9359&icon=5&color=6" alt="Profile Views" />
-</p>
+## 🔝 Top Contributed Repos
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9359&theme=tokyo-night" alt="Top Contributed Repos" />
+</p>
