@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yash%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=55&descSize=16" width="100%"/>
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yash+Gupta+%F0%9F%91%8B;Full+Stack+AI+Engineer;Building+intelligent+systems" alt="Typing SVG" />
 </h1>
@@ -50,8 +54,22 @@ const yash = {
 
 ## 🚀 Featured Projects
 
+### 🎵 FlowTunes — Full-Stack Music Streaming App
+> Fast, beautifully animated, responsive music streaming app with offline-first client-side caching
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-flowtunes.vercel.app-blue?style=flat-square&logo=vercel)](https://flowtunes.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-FlowTunes-181717?style=flat-square&logo=github)](https://github.com/yash9359/FLOWTUNES)
+
+| Feature | Tech |
+|---|---|
+| Dynamic vibe themes · Synced lyrics · Smart search & cache | Next.js 16 · React 19 · TypeScript |
+| Self-healing stream resolver · Recently played tracking | Supabase · PostgreSQL · Zustand + Immer |
+| Google OAuth · Row-level security · Smooth micro-animations | Tailwind CSS v4 · Framer Motion |
+
+---
+
 ### 🌟 SeeMedia — Full-Stack Social Media Platform
-> My biggest project — a complete Instagram-like social media app built from scratch
+> Instagram-like social media app with posts, reels, stories, and real-time chat
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-see--media.vercel.app-blue?style=flat-square&logo=vercel)](https://see-media.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-SeeMedia-181717?style=flat-square&logo=github)](https://github.com/yash9359/SeeMedia)
@@ -114,26 +132,34 @@ const yash = {
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 ### 🖼️ Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
+![MagicUI](https://img.shields.io/badge/Magic%20UI-000000?style=flat-square&logo=framer&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -204,3 +230,7 @@ const yash = {
 <p align="center">
   Made with ❤️ by <b>Yash Gupta</b>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+</div>
