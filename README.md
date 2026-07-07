@@ -21,6 +21,11 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash9359&label=Profile%20Views&color=7F77DD&style=flat-square" alt="Profile Views" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -218,11 +223,6 @@ const yash = {
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash9359&label=Profile%20Views&color=7F77DD&style=flat-square" alt="Profile Views" />
-</p>
-
 <p align="center">
   <i>⭐ If you like my work, consider starring my repos — it means a lot! ⭐</i>
 </p>
