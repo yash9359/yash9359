@@ -29,7 +29,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## 🙋‍♂️ About Me
 
@@ -55,7 +54,7 @@ const yash = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -71,7 +70,7 @@ const yash = {
 | Self-healing stream resolver · Recently played tracking | Supabase · PostgreSQL · Zustand + Immer |
 | Google OAuth · Row-level security · Smooth micro-animations | Tailwind CSS v4 · Framer Motion |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌟 SeeMedia — Full-Stack Social Media Platform
 > Instagram-like social media app with posts, reels, stories, and real-time chat
@@ -85,7 +84,7 @@ const yash = {
 | Follow System · Notifications | Node.js · Express · MongoDB |
 | Cloudinary Media Uploads | Socket.IO · JWT · Cloudinary |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
   <tr>
@@ -129,7 +128,6 @@ const yash = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## 💻 Tech Stack
 
@@ -184,12 +182,14 @@ const yash = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash9359&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash9359&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -197,16 +197,15 @@ const yash = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash9359&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash9359&theme=tokyonight" />
 </p>
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9359&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ## 🤝 Let's Connect!
 
@@ -222,9 +221,10 @@ const yash = {
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-  <i>⭐ If you like my work, consider starring my repos — it means a lot! ⭐</i>
+  <i align="center">⭐ If you like my work, consider starring my repos — it means a lot! ⭐</i>
 </p>
 
 <p align="center">
