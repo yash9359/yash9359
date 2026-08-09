@@ -188,7 +188,12 @@ const yash = {
 ## 📊 GitHub Stats
 
 
-
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yash9359&layout=compact&theme=tokyonight&hide_border=true"
+    width="300"
+  />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash9359&theme=tokyonight" />
 </p>
