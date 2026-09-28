@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-yash-ten-blond.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/yash-gupta-a4026534b">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -50,6 +53,7 @@ const yash = {
 - 📚 Practising **DSA & LeetCode** to sharpen logic and efficiency
 - 🛠️ I love building **real-world projects** that bridge theory and practice
 - 🤝 Open to **collaboration, knowledge sharing**, and open-source contributions
+- 🌐 Check out my work here: [![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-yash-ten-blond.vercel.app/)
 - 📩 Reach me at **yashg5304@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -218,6 +222,10 @@ const yash = {
 <p align="center">
   <i>Open to collaborations, open-source contributions, and great conversations.</i>
   <br><br>
+  <a href="https://portfolio-yash-ten-blond.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/yash-gupta-a4026534b">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
