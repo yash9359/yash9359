@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yash+Gupta+%F0%9F%91%8B;Full+Stack+AI+Engineer;Building+intelligent+systems" alt="Typing SVG" />
 </h1>
 
+
+
 <p align="center">
   <b>Full Stack AI Engineer</b> — Building intelligent, scalable, production-ready systems
 </p>
