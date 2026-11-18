@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yash%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yash+Gupta+%F0%9F%91%8B;Full+Stack+AI+Engineer;Building+intelligent+systems" alt="Typing SVG" />
 </h1>
